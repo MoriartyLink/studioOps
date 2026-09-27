@@ -1,0 +1,6 @@
+/* Deliberately sparse: the green accent is reserved for orientation and progress. */
+.brand span span{color:#74c365}
+.nav-item.active{box-shadow:inset 3px 0 #74c365}
+.progress i{background:#74c365}
+.project-mark{border-color:#74c365;color:#dff7d8}
+.green{border-color:#74c365;color:#dff7d8}

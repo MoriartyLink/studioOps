@@ -1,0 +1,7 @@
+{
+  "$schema": "https://unpkg.com/wrangler@4/config-schema.json",
+  "name": "studioops-supabase-proxy",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-09-27",
+  "workers_dev": true
+}

@@ -1,0 +1,4 @@
+.modal-backdrop{position:fixed;inset:0;z-index:100;display:grid;place-items:center;padding:20px;background:#000c;backdrop-filter:blur(5px);animation:appear .2s ease}
+.project-modal{display:grid;gap:18px;width:min(100%,420px);padding:24px;background:#0e0e0e;border:1px solid #353535;border-radius:12px;box-shadow:0 24px 80px #000;animation:rise .3s ease}
+.project-modal h3{margin:4px 0 6px;font-size:22px;letter-spacing:-.035em}.project-modal p:not(.eyebrow){margin:0;color:#aaa;font-size:13px;line-height:1.5}
+.project-modal label{display:grid;gap:7px;color:#d2d2d2;font-size:13px;font-weight:650}.project-modal input{width:100%;border:1px solid #3b3b3b;border-radius:8px;padding:10px 12px;background:#080808;color:#fff;outline:none}.project-modal input:focus{border-color:#fff;box-shadow:0 0 0 3px #ffffff1a}.optional{margin-left:5px;color:#888;font-size:11px;font-weight:400}.modal-actions{display:flex;justify-content:flex-end;gap:10px;margin-top:2px}

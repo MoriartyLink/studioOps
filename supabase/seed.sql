@@ -1,0 +1,3 @@
+-- Run after creating users in Auth. Replace the UUIDs with real auth.users IDs.
+-- Update public.profiles set role = 'owner', full_name = 'Min' where email = 'min@example.com';
+-- Then create projects/tasks through the app; RLS deliberately prevents anonymous seed rows.
